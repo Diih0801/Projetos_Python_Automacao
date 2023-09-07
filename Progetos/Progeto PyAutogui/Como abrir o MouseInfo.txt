@@ -1,0 +1,6 @@
+Como abrir o MouseInfo
+Abrir o cmd
+Digitar Python
+E depois digitar comandos a abaixo:
+>>> from mouseinfo import mouseInfo
+>>> mouseInfo()
